@@ -1,0 +1,28 @@
+.cardContent{
+	background:linear-gradient(to right,#bfc2d9,#004e92);
+    color: black;
+}
+
+.Component2{
+    background: linear-gradient(to right,#bfc2d9,#004e92);
+    width: 500px;
+    border: solid white;
+}
+
+.Box2{
+    padding-top: 2rem;
+}
+
+.Component3{
+    background:linear-gradient(to right,#bfc2d9,#004e92);
+    margin-left: 100px;
+    border: solid white;
+}
+
+.Component{
+    height: 400px;
+}
+
+.cards{
+    border: solid white;
+}
